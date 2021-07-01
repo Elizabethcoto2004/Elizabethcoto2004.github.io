@@ -39,9 +39,9 @@
         // higher number close to the bottom
        createPlatform (200, 560);
        createPlatform (500, 440, 3, 1);
-       createPlatform (15, 340);
-       createPlatform (550, 220, 3, 1);
-       createPlatform (40, 140);
+       createPlatform (15, 360);
+       createPlatform (550, 250, 3, 1);
+       createPlatform (40, 160);
         
         // ALL YOUR CODE GOES ABOVE HERE ///////////////////////////////////////
         ////////////////////////////////////////////////////////////////////////
